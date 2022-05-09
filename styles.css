@@ -71,6 +71,14 @@
   color: #2677c3;
 }
 
+.navsvg {
+  height: 40px;
+  margin-top: 10px;
+  background-repeat: no-repeat;
+}
+
+
+
 
 /* ----- END PRODUCTS  ------ */
 
@@ -86,6 +94,10 @@
 #shop-link {
   text-decoration: none;
   color: #2677c3;
+}
+
+.svg {
+  max-height: 75px;
 }
 
 /* ----- END BANNER  ------ */
